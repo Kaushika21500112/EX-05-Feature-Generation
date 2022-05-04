@@ -190,8 +190,35 @@ df5
 ```
 # OUPUT
 # Data.csv :
+![](o1.png)
+![](o2.png)
+![](o3.png)
+![](04.png)
+![](o5.png)
+![](o6.png)
+![](o7.png)
+![](o8.png)
 # Encoding.csv :
+![](o9.png)
+![](o10.png)
+![](o11.png)
+![](o12.png)
+![](o13.png)
+![](o14.png)
+![](o15.png)
+![](o16.png)
 # Titanic.csv :
+![](o22.png)
+![](o17.png)
+![](o18.png)
+![](o19.png)
+![](o20.png)
+![](o21.png)
+![](o23.png)
+![](o24.png)
+![](o25.png)
+![](o26.png)
+![](o27.png)
 
 # RESULT:
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
