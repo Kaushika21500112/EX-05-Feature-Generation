@@ -190,34 +190,63 @@ df5
 ```
 # OUPUT
 # Data.csv :
+## Initial Dataset:
 ![](o1.png)
+## Binary Encoding:
 ![](o2.png)
+
 ![](o3.png)
+## Encoded Dataset:
 ![](04.png)
+## Data Scaling using MinMaxScaler:
 ![](o5.png)
+## Data Scaling using StandardScaler:
 ![](o6.png)
+## Data Scaling using MaxAbsScaler:
 ![](o7.png)
+## Data Scaling using RobustScaler:
 ![](o8.png)
+
 # Encoding.csv :
+## Initial Dataset:
 ![](o9.png)
+## Binary Encoding:
 ![](o10.png)
+
 ![](o11.png)
+## Encoded Dataset:
 ![](o12.png)
+## Data Scaling using MinMaxScaler:
 ![](o13.png)
+## Data Scaling using StandardScaler:
 ![](o14.png)
+## Data Scaling using MaxAbsScaler:
 ![](o15.png)
+## Data Scaling using RobustScaler:
 ![](o16.png)
+
 # Titanic.csv :
+## Initial Dataset:
 ![](o22.png)
+## Data cleaning before encoding:
 ![](o17.png)
+
 ![](o18.png)
+
 ![](o19.png)
+## Cleaned Dataset:
 ![](o20.png)
+## Binary Encoding:
 ![](o21.png)
+## Encoded Dataset:
 ![](o23.png)
+## Data Scaling using MinMaxScaler:
 ![](o24.png)
+## Data Scaling using StandardScaler:
 ![](o25.png)
+## Data Scaling using MaxAbsScaler:
 ![](o26.png)
+## Data Scaling using RobustScaler:
 ![](o27.png)
 
 # RESULT:
